@@ -1,0 +1,28 @@
+h1 {
+    color: whitesmoke; background-color: gray;
+    text-align: center;
+}
+h2{
+    color: whitesmoke; background-color: gray;
+    text-align: center;
+}
+
+p{
+    color: whitesmoke; background-color: grey;
+    text-align: center;
+}
+
+p{
+    color: wheat; background-color: brown;
+    text-align: center;
+}
+body {
+    background-color: gray;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
